@@ -4,6 +4,16 @@
       "nombre": "Camilo Castro",
       "email": "castro@alura.com",
       "id": 1
+    },
+    {
+      "nombre": "Pedro",
+      "email": "peter@alura.com",
+      "id": "4770600f-c708-4d39-9fbc-ff68706a06d3"
+    },
+    {
+      "nombre": "gabriela",
+      "email": "ga@alura.com",
+      "id": "6db84816-75f8-4ea8-aa8e-d2cf9e665db2"
     }
   ]
 }
