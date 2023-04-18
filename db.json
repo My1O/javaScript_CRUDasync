@@ -1,18 +1,13 @@
 {
   "perfil": [
     {
-      "nombre": "Camilo Antonio",
+      "nombre": "Camilo A",
       "email": "ancastro@alura.com",
       "id": 1
     },
     {
-      "nombre": "Josias",
-      "email": "Jopeter@alura.com",
-      "id": "0bd80729-cfa5-4752-ab72-9c2b41fe252c"
-    },
-    {
-      "nombre": "pepe",
-      "email": "pepe@alura.com",
+      "nombre": "Peter",
+      "email": "peter@alura.com",
       "id": "d3c0d940-c9e5-4e87-bc41-54412a5e4dec"
     },
     {
